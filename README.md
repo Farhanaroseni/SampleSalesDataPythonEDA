@@ -17,5 +17,12 @@ https://www.kaggle.com/datasets/kyanyoga/sample-sales-data
 3. Visualization and Dashboard creation in Tableau.
 
 ## Analysis Results
+![image](https://github.com/user-attachments/assets/0004b805-6c5c-4d08-b892-a3cedff6bc2c)
 
-## Insights
+* The total sales for 2004 amounted to **$4,724,163**, showing a **34.3%** increase compared to the previous year (PY).
+* **November** recorded the highest sales for two consecutive years, 2004 and 2003.
+* Monthly sales in 2004 performed better than the prior year overall, except for October.
+* The **Classic Cars** product line performed the best, contributing the highest quatity ordered.
+* **USA** had the best performance with total sales of **$1,685,471**.
+* **Euro Shopping Channel** contributed the highest revenue with **$375,268**.
+
