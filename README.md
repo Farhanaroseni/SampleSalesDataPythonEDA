@@ -17,8 +17,9 @@ https://www.kaggle.com/datasets/kyanyoga/sample-sales-data
 3. Visualization and Dashboard creation in Tableau.
 
 ## Analysis Results
-![image](https://github.com/user-attachments/assets/aaaa7e88-5bd6-45ee-b09b-c1ed0ee701c0)
+Dashboard link: https://public.tableau.com/app/profile/nur.farhana.binti.roseni/viz/SampleSalesDataDashboard_17338779949180/Dashboard1
 
+![image](https://github.com/user-attachments/assets/aaaa7e88-5bd6-45ee-b09b-c1ed0ee701c0)
 
 * The total sales for 2004 amounted to **$4,724,163**, showing a **34.3%** increase compared to the previous year (PY).
 * **November** recorded the highest sales for two consecutive years, 2004 and 2003.
